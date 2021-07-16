@@ -11,6 +11,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alemapyapur&repo=github-readme-stats)]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemapyapur&layout=compact)]
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alemapyapur)]
+
+
 
 
 
