@@ -7,8 +7,9 @@
 * Student at Laboratoria 
 * On my way of becoming a Full Stack developer ✨
 
-<center> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemapyapur&show_icons=true&theme=midnight-purple) </center>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemapyapur&show_icons=true&theme=midnight-purple) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemapyapur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
