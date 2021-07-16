@@ -11,5 +11,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemapyapur&layout=compact&show_icons=true&theme=midnight-purple)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alemapyapur&repo=github-readme-stats)]
 
