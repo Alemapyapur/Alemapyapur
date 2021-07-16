@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemapyapur&show_icons=true&theme=midnight-purple)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alemapyapur&repo=github-readme-stats&theme=midnight-purple)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alemapyapur&repo=github-readme-stats)]
 
 
 
