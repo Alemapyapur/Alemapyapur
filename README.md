@@ -7,11 +7,10 @@
 * On my way of becoming a Full Stack developer ✨
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemapyapur)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemapyapur&show_icons=true&theme=midnight-purple)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemapyapur&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alemapyapur&repo=github-readme-stats&theme=midnight-purple)]
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemapyapur&show_icons=true&theme=tokyonight)
 
 
 
