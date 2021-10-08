@@ -12,7 +12,7 @@
 </div>
 <!-- <hr> -->
 
-<h2  align="center">📫 Reach me on</h2>
+<h2  align="left">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/pamela-rupay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/alemapyapur"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,11 +20,11 @@
 </p>
 
 <!-- <hr> -->
-<h2  align="center">⏳ Statistics</h2>
+<h2  align="left">⏳ Statistics</h2>
 
 ![Alemapyapur's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemapyapur&show_icons=true&theme=midnight-purple) 
 ![Alemapyapur GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alemapyapur&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D)
 
-<h2  align="center">📊 Commits</h2>
+<h2  align="left">📊 Commits</h2>
 
 ![Snake Github](github-user-contribution.svg)
