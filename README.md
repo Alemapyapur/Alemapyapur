@@ -22,8 +22,9 @@
 <!-- <hr> -->
 <h2  align="left">⏳ Statistics</h2>
 
-![Alemapyapur's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemapyapur&show_icons=true&theme=midnight-purple) 
+![Alemapyapur's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemapyapur&count_private=true&show_icons=true&theme=midnight-purple) 
 ![Alemapyapur GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alemapyapur&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemapyapur&theme=buefy&layout=compact)](https://github.com/alemapyapur/github-readme-stats)
 
 <h2  align="left">📊 Commits</h2>
 
