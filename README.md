@@ -1,23 +1,24 @@
-### Hi there 👋
+### Hi there 👋 &nbsp; ![](https://komarev.com/ghpvc/?username=your-github-alemapyapur&color=blueviolet)
 <!--
 **Alemapyapur/Alemapyapur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 * Student at Laboratoria 
 * On my way of becoming a Full Stack developer ✨ 
+
 ```Javascript
 const Alemapyapur = {
   code: [Javascript, HTML, CSS], 
   tools: [Node, React],
   languages: ["Italian", "English", "Spanish"]
 }
-```
+```  
 
 <h2 align="left">📫 Reach me on</h2>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/pamela-rupay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/alemapyapur"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:pamela.rupay31@gmail.com?subject=Hello%20Pamela,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/pamela-rupay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a target="_blank"href="https://twitter.com/alemapyapur"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
+  <a href="mailto:pamela.rupay31@gmail.com?subject=Hello%20Pamela,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 </p>
 
 <!-- <hr> -->
