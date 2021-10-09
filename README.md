@@ -7,7 +7,7 @@
 * On my way of becoming a Full Stack developer ✨ 
 
 ```Javascript
-const Alemapyapur = {
+const alemapyapur = {
   code: [Javascript, HTML, CSS], 
   tools: [Node, React],
   languages: ["Italian", "English", "Spanish"]
