@@ -3,12 +3,12 @@
 **Alemapyapur/Alemapyapur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-* Student at Laboratoria 
+* I'm a Front-End developer student in Laboratoria 
 * On my way of becoming a Full Stack developer ✨ 
 
 ```Javascript
 const alemapyapur = {
-  code: [Javascript, HTML, CSS], 
+  code: [JavaScript, HTML, CSS], 
   tools: [Node, React],
   languages: ["Italian", "English", "Spanish"]
 }
