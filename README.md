@@ -3,7 +3,7 @@
 **Alemapyapur/Alemapyapur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-* I'm a Front-End developer student at Laboratoria 
+* I'm a Front-End developer student at Laboratoria <a href="https://github.com/laboratoria"><img src="https://avatars.githubusercontent.com/u/7280695?s=200&v=4" width="20px"></a>
 * On my way of becoming a Full Stack developer ✨ 
 
 ```Javascript
