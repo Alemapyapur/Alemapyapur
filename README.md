@@ -18,7 +18,7 @@ const alemapyapur = {
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/pamela-rupay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a target="_blank"href="https://twitter.com/alemapyapur"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
-  <a href="mailto:pamela.rupay31@gmail.com?subject=Hello%20Pamela,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="mailto:pamela.rupay31@gmail.com?subject=Hello%20Pamela,%20I%20have%20seen%20your%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 </p>
 
 <!-- <hr> -->
