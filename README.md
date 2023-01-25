@@ -1,4 +1,7 @@
-### Hi 👋, I'm Pamela &nbsp; ![](https://komarev.com/ghpvc/?username=your-github-alemapyapur&color=blueviolet)
+### ![Alemapyapur](https://readme-typing-svg.demolab.com?font=Dosis&weight=800&size=22&pause=1000&color=9446EED9&width=435&height=38&lines=Hi+%F0%9F%98%8A%2C+Welcome!)
+
+![](https://komarev.com/ghpvc/?username=your-github-alemapyapur&color=blueviolet)
+
 <!--
 **Alemapyapur/Alemapyapur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -9,7 +12,7 @@
 ```Javascript
 const alemapyapur = {
   code: ["JavaScript", "HTML", "CSS"], 
-  tools: ["Node", "React"],
+  tools: ["Node", "React", "React Native"],
   languages: ["Italian", "English", "Spanish"]
 }
 ```  
@@ -34,3 +37,5 @@ const alemapyapur = {
 <h2  align="left">📊 Commits</h2>
 
 ![Snake Github](github-user-contribution.svg)
+
+![Thanks](https://readme-typing-svg.demolab.com?font=Dosis&weight=800&size=22&pause=1000&color=9446EED9&width=435&height=38&lines=Thanks+for+visiting+my+repository!+%F0%9F%91%8B)
